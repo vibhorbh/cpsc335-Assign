@@ -3,14 +3,19 @@ Psuedocode for the Connecting Pairs of Persons Problem in problem #2 by using se
 def return_swaps(row):
     number_of_swaps = 0
     row_copy = copy of row
-    hold_value = int
+    hold_value = number value
 
     start going through the row copy 2 at a time
         if a not a pair,
-            look for correct number and swap
-            add 1 to number_of_swaps
-        either way, move to next pair
-    
+            if first number even
+                look for the odd number in the pair
+                    if found, swap places of incorrect number and correct odd number
+                    then, increase number_of_swaps by 1
+            else if odd
+                look for the even number in the pair
+                    if found, swap places of incorrect number and correct odd number
+                    then, increase number_of_swaps by 1
+        either way, move on to the next pair    
     when finished, return number_of_swaps
 
 
