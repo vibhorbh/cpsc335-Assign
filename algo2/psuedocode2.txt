@@ -1,0 +1,16 @@
+Psuedocode for the Connecting Pairs of Persons Problem in problem #2 by using selection sort
+
+def return_swaps(row):
+    number_of_swaps = 0
+    row_copy = copy of row
+    hold_value = int
+
+    start going through the row copy 2 at a time
+        if a not a pair,
+            look for correct number and swap
+            add 1 to number_of_swaps
+        either way, move to next pair
+    
+    when finished, return number_of_swaps
+
+
