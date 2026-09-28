@@ -23,9 +23,10 @@ def preferred_starting_city(distance, fuel, mpg):
     #and to end the search, we return the current starting point or city
     return starting_position
 
-distance = [5, 25, 15, 10, 15]
-fuel = [1, 2, 1, 0, 3]
-mpg = 10
+#sample inputs provided by professor. Uncomment the following lines to run the program properly with sample inputs.
+#distance = [5, 25, 15, 10, 15]
+#fuel = [1, 2, 1, 0, 3]
+#mpg = 10
 
 # Run the function and print the answer
-print(preferred_starting_city(distance, fuel, mpg))
+#print(preferred_starting_city(distance, fuel, mpg))
