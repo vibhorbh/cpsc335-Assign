@@ -1,4 +1,4 @@
-Psuedocode for the Connecting Pairs of Persons Problem in problem #2 by using selection sort
+Psuedocode for the Connecting Pairs of Persons Problem in problem #2
 
 def return_swaps(row):
     number_of_swaps = 0
