@@ -1,3 +1,4 @@
+Names: Vibhor Bhargava, Aly Sayed, Matthew Aaron Gabriel
 Psuedocode for the greedy algorithm used to solve hamiltonian problem #1
 
 starting positon = 0

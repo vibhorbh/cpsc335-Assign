@@ -1,3 +1,4 @@
+Names: Vibhor Bhargava, Aly Sayed, Matthew Aaron Gabriel
 Psuedocode for the Connecting Pairs of Persons Problem in problem #2
 
 def return_swaps(row):

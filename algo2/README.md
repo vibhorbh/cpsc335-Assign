@@ -1,3 +1,4 @@
+Names: Vibhor Bhargava, Aly Sayed, Matthew Aaron Gabriel
 Algorithm 2
 in order to use this Algorithm,
 1) first import it into your main file
