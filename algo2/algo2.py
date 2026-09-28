@@ -1,7 +1,7 @@
 # Names: Vibhor Bhargava, Aly Sayed, Matthew Aaron Gabriel
 # Emails: vibhor.b@csu.fullerton.edu, Matthew.Gabriel@csu.fullerton.edu
 
-# Implementation of a Selection sory solution to the Connecting Pairs of Persons Problem
+# Implementation of a solution to the Connecting Pairs of Persons Problem
 
 def return_swaps(row):
 
